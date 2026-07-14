@@ -1,3 +1,17 @@
+# Project Description
+
+Helios Mk-II is an autonomous rover engineered to actively analyze and understand its environment rather than just driving between coordinates. The core navigation loop is straightforward: the rover is given a target GPS location and determines its own path to the destination. When encountering an obstacle, it avoids forcing a path; instead, it decelerates, scans the surroundings using its integrated LiDAR and camera payload, maps out a local environment model, and dynamically computes a safe detour or calculates an entirely new route if the path is completely blocked.
+
+To bridge the gap between complex robotics and user experience, Helios features an AI-powered mission narration engine. Rather than outputting standard, dry terminal logs, the system synthesizes the navigation telemetry into a real-time narrative. Every sudden obstacle, recalculated path, or mission milestone is translated into a live commentary stream, transforming standard autonomous data tracking into an engaging, story-driven experience.
+
+Beyond navigation, the rover includes a dedicated research mode designed for localized data collection. While traversing an area, the platform captures high-resolution imagery and logs environmental telemetry, geotagging all data points with precise GPS coordinates. This payload data can be extracted post-mission for specialized applications like agricultural monitoring, plant disease detection, or environmental mapping, making the vehicle a highly capable mobile sensor platform.
+
+Future development plans include a hardware-linked follow-me mode. In this configuration, the rover tracks a dynamic target—such as a mobile device interface—instead of a fixed geographic coordinate. While following, the AI narration engine remains fully active, contextualizing the local environment and interactions in real time to turn a routine field test into an interactive demonstration.
+
+At its core, Helios Mk-II integrates robotics, computer vision, autonomous navigation, embedded systems, and generative AI into a single cohesive platform. The objective extends beyond basic mobility; the project aims to deliver an intelligent system capable of environmental awareness, autonomous decision-making, high-utility data collection, and intuitive human-robot interaction.
+
+
+
 # Build Guide
 ## Step 1: The Main Chassis & Pillars
 
