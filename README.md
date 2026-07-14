@@ -65,3 +65,6 @@ With everything linked up, you can go ahead and pop the wheels onto the motor sh
 
 <img width="1382" height="756" alt="Screenshot 2026-07-14 180737" src="https://github.com/user-attachments/assets/9d19b429-ddfe-48fe-808d-9ed601ca19bc" />
 
+<img width="618" height="870" alt="image" src="https://github.com/user-attachments/assets/7f60601c-77b1-45d8-809b-c6a5a4e78ec4" />
+
+
