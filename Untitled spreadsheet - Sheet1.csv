@@ -1,0 +1,50 @@
+No.,Part Name ,Quantity,Owned,Seller,Price
+1,Pro-Range OG555 High Torque DC Motor 12V 100RPM 173.6N-cm Encoder Available,6,No,Robu,50
+2,SmartElex 15D PWM & RC Dual Channel Motor Driver,3,No,Robocraze,44
+3,Arduino Mega,1,No,Robocraze,11
+4,Lidar,1,Yes,Robu,-
+5,Rasberry PI AI Camera,1,Yes,Robocraze,-
+6,Rasberry PI 5,1,Yes,Robu,-
+7,PDB,1,Yes,Amazon,-
+8,GPS,1,Yes,Amazon,-
+9,GSM,1,Yes,Robu,-
+10,RC KIT,1,Yes,Robu,-
+11,M3 Screw Pack,1,Yes,Only Screws,-
+12,626 ZZ - Deep Groove Ball Bearing (ID:6mm OD:19mm T:6mm),6,No,Only Screws,1.1
+13,625 ZZ - Deep Groove Ball Bearing (ID:5mm OD:16mm T:5mm),3,No,Only Screws,0.6
+14,"M3 X 5mm Brass Threaded Inserts (Dia. 3mm, Length 5mm)",25,No,Only Screws,0.6
+15,"Neodymium Bar Magnet N35 (Length: 25mm, Breadth: 10mm, Thickness: 2mm)",8,No,Only Screws,2.3
+16,Pro-Range DS3218 20kgcm Metal Gear Digital Servo Motor - 180 degree,2,No,Robu,26
+17,Carbon Fiber Tube (Hollow)16mm(OD)*14mm(ID)*185mm(L) (Twill Matte Black),6,No,Robu,9
+18,Lipo Battery,1,Yes,Robu,-
+19,UBEC,1,No,Robu,2
+20,"M6 X 65mm Hex Bolt SS304 (Dia. 6mm, Length. 65mm)",2,No,Only Screws,0.7
+21,M3 X 20mm Male to Female Nylon Hex Threaded Standoff Spacer,12,No,Only Screws,0.5
+22,"M6 X 45mm Hex Bolt SS304 (Dia. 6mm, Length. 45mm)",2,No,Only Screws,0.3
+23,"M6 X 50mm Hex Bolt SS304 (Dia. 6mm, Length. 50mm)",2,No,Only Screws,0.3
+24,Arduino-to-Pi cable(type b usb),1,Yes,Amazon,-
+25,Robot car Wheel (125mm) Black-Blue with (6mm Coupling),6,No,Robocraze,36
+26,"M5 X 16mm Hex Bolt SS304 (Dia. 5mm, Length. 16mm)",2,No,Only Screws,0.07
+27,M5 Hex Nut SS304 (Dia. 5mm),4,No,Only Screws,0.02
+28,M6 Plain Washer SS304 (ID. 6.7mm OD:11.8mm T:1.6mm),12,No,Only Screws,0.19
+29,M6 Hex Nut Mild Steel Black (Dia. 6mm),8,No,Only Screws,0.09
+30,"M6 X 80mm Hex Bolt SS304 (Dia. 6mm, Length. 80mm)",2,No,Only Screws,0.26
+31,M5 Plain Washer SS304 (ID. 5.4mm OD:9.8mm T:1mm),6,No,Only Screws,0.19
+32,"M5 X 25mm Hex Bolt SS304 (Dia. 4mm, Length. 25mm)",2,No,Only Screws,0.09
+33,20AWG 3 Core Multicore Silicone Cable Red Black Green Flexible Wire,3,no,Robu,3.63
+34,14AWG Silicone Braided wire-Black,1,No,Robu,1
+35,14AWG Silicone Braided wire-Red,1,No,Robu,1
+36,PCB Manufacturing,1,No,JLC,2
+37,1x40 Pin 2.54MM Berg Strip Male connector,2,No,Robu,1
+38,LED red,1,yes,Robu,-
+39,LED white,1,yes,Robu,-
+40,LED blue,1,yes,Robu,-
+41,resistor 470Ω,3,yes,Robu,-
+42,Heat Shrink,1,yes,Robu,-
+43,Zip Ties,1,yes,Robu,-
+44,XT60 male,1,no,Robu,1
+45,Battery voltage checker,1,yes,Robu,-
+46,2.54mm 1x40 Pin Female Single Row Header Strip,3,No,Robu,1
+,,,,T,
+,,,,,
+,,,TOTAL,,144$
