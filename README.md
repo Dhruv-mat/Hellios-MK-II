@@ -1,4 +1,4 @@
-##Step 1: The Main Chassis & Pillars##
+##Step 1: The Main Chassis & Pillars
 
 Start by printing out the main base. Next, grab the B and C pillars. You’ll need to pop M3 nuts right into the slots on the pillars themselves, then secure them by driving M3 screws up from the bottom of the base. Go ahead and repeat this process for both sides. Once the pillars are locked down, take the B and C pillar stabilizers and slide them in from the top—they should just drop right into place. After that, use a bit of glue to secure the canopy onto the Main Base.
 
