@@ -1,4 +1,4 @@
-##Step 1: The Main Chassis & Pillars
+## Step 1: The Main Chassis & Pillars
 
 Start by printing out the main base. Next, grab the B and C pillars. You’ll need to pop M3 nuts right into the slots on the pillars themselves, then secure them by driving M3 screws up from the bottom of the base. Go ahead and repeat this process for both sides. Once the pillars are locked down, take the B and C pillar stabilizers and slide them in from the top—they should just drop right into place. After that, use a bit of glue to secure the canopy onto the Main Base.
 
@@ -8,7 +8,7 @@ Start by printing out the main base. Next, grab the B and C pillars. You’ll ne
 
 <img width="901" height="836" alt="Screenshot 2026-07-14 175949" src="https://github.com/user-attachments/assets/a514b542-b4de-45fb-8319-a7d380a57076" />
 
-Step 2: The Differential, Pillars, and Roofs
+## Step 2: The Differential, Pillars, and Roofs
 
 Next up is the differential plate. Insert M3 nuts into the diff connector, and secure it by screwing it in from the bottom of c pillar stabaliser plate. Use this exact same method as the pillar mounting way to attach to the rear wing. Once those are in place, you can just magnetically snap roof A and roof B onto the top.
 
@@ -16,14 +16,15 @@ Next up is the differential plate. Insert M3 nuts into the diff connector, and s
 
 <img width="360" height="336" alt="Screenshot 2026-07-14 180005" src="https://github.com/user-attachments/assets/35ef58c7-fbf8-4cd8-a419-065504f3959b" />
 
-Step 3: The Suspension & Carbon Fiber Rods
+## Step 3: The Suspension & Carbon Fiber Rods
+
 Moving on to the B pillars, press-fit two ball bearings into each side. Once those are seated, take the main connector and fasten it onto the small pendulum piece using four screws. Now grab your carbon fiber rods, cut them down to 15 cm and 17 cm lengths, and secure them directly into the main connector.
 
 <img width="1182" height="603" alt="Screenshot 2026-07-14 180230" src="https://github.com/user-attachments/assets/a1b25e17-7311-49e5-8aee-b889cd64180f" />
 
 <img width="1472" height="865" alt="Screenshot 2026-07-14 180146" src="https://github.com/user-attachments/assets/ca6a90e6-1967-433d-b47f-09b1beef1a62" />
 
-Step 4: The Bogie and Front Steering Setup
+## Step 4: The Bogie and Front Steering Setup
 
 Mount the bogie connector to the rear, and fit the servo holder onto the front. Make sure to press two ball bearings into the bogie connector, then bolt the entire bogie assembly together using an M6 bolt.
 
@@ -35,7 +36,7 @@ To link up the front connector to the front motor housing, you'll first need to 
 
 <img width="1412" height="792" alt="Screenshot 2026-07-14 180614" src="https://github.com/user-attachments/assets/c0519f7f-481c-42f7-aa37-8529a57568d5" />
 
-Step 5: Linking the Pendulums & Differential
+## Step 5: Linking the Pendulums & Differential
 
 For the top section, take the pendulum connector and secure it onto the pendulum using an M5 bolt to bridge both sides.
 
@@ -43,7 +44,7 @@ To get the differential linkage hooked up, take the diff and a ball bearing. Pop
 
 <img width="1757" height="963" alt="Screenshot 2026-07-14 180712" src="https://github.com/user-attachments/assets/652a6ecf-1767-4a85-b66f-38089d866d53" />
 
-Step 6: Final Assembly & Electronics
+## Step 6: Final Assembly & Electronics
 
 With everything linked up, you can go ahead and pop the wheels onto the motor shafts. To get the electronics and your custom PCB mounted inside the chassis, just follow the electronics placement guide and refer to the main wiring diagram to get all your connections sorted.
 
